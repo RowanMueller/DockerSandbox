@@ -23,6 +23,12 @@ The primary objectives are:
   - Docker Compose (for multi-container setups, e.g., Django + PostgreSQL)
 - **Practice**: Write a Dockerfile for a Django REST API and run it locally with `docker run`.
 
+- **Running with Docker Notes**:
+  - What exactly is docker??
+    - Docker containers are lightweight, standalone, executabe packages of software that include everything needed to run an application.
+  - What is the Open Container Initiative (OCI)?
+    - OCI is an open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
+
 ### 2. Get a High-Level Kubernetes Overview
 - **Objective**: Learn what Kubernetes does (orchestrating containers) without diving into complex setups.
 - **Key Concepts**:
